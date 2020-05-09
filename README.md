@@ -6,7 +6,9 @@ To run do:
 npm i
 canvas-sketch canvas.js --hot
 ```
+![Alt text](images/Screen%20Shot%202020-05-09%20at%205.48.45%20PM.png)
 and
 ```
 canvas-sketch three.js --hot
 ```
+![Alt text](images/Screen%20Shot%202020-05-09%20at%205.49.01%20PM.png)
